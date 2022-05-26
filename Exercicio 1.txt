@@ -1,0 +1,18 @@
+Algoritmo
+
+***Faça um algoritmo para efetuar a troca de um
+pneu furado.
+
+
+->Encontre um local seguro para estacionar
+->Ligar pisca alerta
+->Pegue o triângulo e sinalize a via atrás do veículo
+->Localize o estepe, macaco e chave de roda
+->afroxe um pouco os parafusos
+->levante o veiculo
+->solte os parafusos
+->troque o pneu
+->aperte os parafusos
+->desça o carro
+->guarde o que usou  
+->guarde o triangulo
