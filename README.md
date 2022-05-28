@@ -1,2 +1,3 @@
 # Resolução dos exercicios de lógica de programação
-[exercicio 1](./Exercicio 0.txt)
+[Exercicio1](./exercicio1.txt) <br>
+[Exercicio2](./exercicio2.alg) <br>
