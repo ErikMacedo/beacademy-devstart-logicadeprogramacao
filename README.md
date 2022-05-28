@@ -1,6 +1,7 @@
 # Resolução dos exercicios de lógica de programação
 [Exercicio0](Exercicio0.txt) <br>
 [Exercicio1](Exercicio%201.txt) <br>
+[Exercicio2](Exercicio%202.txt) <br>
 [Exercicio3](Exercicio%203.ALG) <br>
 [Exercicio4](Exercicio%204.ALG) <br>
 [Exercicio5](Exercicio%205.ALG) <br>
@@ -27,7 +28,7 @@
 [Exercicio26](Exercicio%2026.ALG) <br>
 [Exercicio27](Exercicio%2027.ALG) <br>
 [Exercicio28](Exercicio%2028.ALG) <br>
-[Exercicio29](Exercicio%29.ALG) <br>
+[Exercicio29](Exercicio%2029.ALG) <br>
 [Exercicio30](Exercicio%2030.ALG) <br>
 [Exercicio31](Exercicio%2031.ALG) <br>
 [Exercicio32](Exercicio%2032.ALG) <br>
