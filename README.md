@@ -1,3 +1,3 @@
 # Resolução dos exercicios de lógica de programação
 [Exercicio0](Exercicio0.txt) <br>
-[Exercicio2](./exercicio-2.alg) <br>
+[Exercicio2](Exercicio 2.alg) <br>
